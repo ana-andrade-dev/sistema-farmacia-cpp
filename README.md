@@ -14,5 +14,5 @@ g++ farmacia.cpp -o farmacia
 ./farmacia
 ```
 
-## Autores
+## Autora
 - Ana Carolina Dias de Andrade
